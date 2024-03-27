@@ -21,7 +21,7 @@ author: imsujinpark
 
 navbar-links:
   About Me: "aboutme"
-  Test: "test"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
