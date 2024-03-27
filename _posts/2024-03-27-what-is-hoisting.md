@@ -27,8 +27,8 @@ console.log(x); // 5
 It does not throw an error because the variable declaration is hoisted to the top of the scope.
 
 
-### Does it only work with `var`?
-- No, it also works with `let` and `const`.
+    ### Does it only work with `var`?
+    - No, it also works with `let` and `const`.
 
 ## Function Hoisting Example
 ```javascript
@@ -73,10 +73,12 @@ const baz = () => {
 | Arrow Function Expression | - Shorter syntax<br>- No `this` binding | - Can't be used in the global scope | No |
 
 ## Pros and Cons of Hoisting
+
 ### Pros
 - It allows you to use functions before they are declared.
 - It makes the code more readable by moving all the declarations to the top of the scope.
 - It helps avoid `ReferenceError` by hoisting the variable declarations.
+
 ### Cons
 - It can be confusing if you are not familiar with the hoisting mechanism.
 - It can lead to bugs if you rely on hoisting too much.
