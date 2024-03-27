@@ -17,6 +17,7 @@ author: imsujinpark
     - compilation phase: The JavaScript engine scans the code and sets up memory space for variables and functions.
 - This means that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local.
 
+
 ## Variable Hoisting Example
 ```javascript
 console.log(x); // undefined
@@ -24,6 +25,7 @@ var x = 5;
 console.log(x); // 5
 ```
 It does not throw an error because the variable declaration is hoisted to the top of the scope.
+
 
 ### Does it only work with `var`?
 - No, it also works with `let` and `const`.
@@ -63,6 +65,7 @@ const baz = () => {
     console.log("Hello, World!");
 }
 ```
+
 | Function Type | Pros | Cons | Hoisted? |
 | :---: | :---: | :---: | :---: |
 | Function Declaration | - Can be called before the declaration<br>- More readable | - Can only be used in the global scope<br>- Can't be assigned to a variable | Yes |
