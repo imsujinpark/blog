@@ -2,9 +2,9 @@
 layout: post
 title: What is Hoisting?
 subtitle: Understanding the JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: https://images.unsplash.com/photo-1680686486658-271ebc5b2a39?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+thumbnail-img: https://images.unsplash.com/photo-1680686486658-271ebc5b2a39?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+share-img: https://images.unsplash.com/photo-1680686486658-271ebc5b2a39?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 tags: [JavaScript, Hoisting]
 author: imsujinpark
 ---
