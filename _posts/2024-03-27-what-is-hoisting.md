@@ -12,7 +12,7 @@ author: imsujinpark
 # Hoisting
 
 ## What is Hoisting?
-- Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution.
+- **Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution**.
 - This process is done by the JavaScript engine during the compilation phase.
     - compilation phase: The JavaScript engine scans the code and sets up memory space for variables and functions.
 - This means that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local.
@@ -64,7 +64,7 @@ const baz = () => {
 }
 ```
 | Function Type | Pros | Cons | Hoisted? |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | Function Declaration | - Can be called before the declaration<br>- More readable | - Can only be used in the global scope<br>- Can't be assigned to a variable | Yes |
 | Function Expression | - Can be assigned to a variable<br>- Can be used in the local scope | - Can't be called before the declaration | No |
 | Arrow Function Expression | - Shorter syntax<br>- No `this` binding | - Can't be used in the global scope | No |
