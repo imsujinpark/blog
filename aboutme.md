@@ -1,16 +1,53 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sujin Park. I'm a software engineer with a focus on web development seeking a deeper understanding of how things work under the hood.
+Currently working on LMS (Learning Management System) Solutions based on an open-source project called [Canvas LMS](https://github.com/instructure/canvas-lms)
+Feel free to reach out to me if you have any questions or just want to chat!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Experience
 
-What else do you need?
+### Jan 2023 - Present
+**Software Engineer** @[Xinics Inc.](https://www.xinics.com/)'s Tech Team
 
-### My story
+Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) to universities and academic institutions.
+I, as a Full Stack Developer, is fully designing and implementing new features (front end, back end, testing, deployment...) on a client-by-client basis.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The technology stack involves mainly:
+* JavaScript, TypeScript, React and Redux for the front end,
+* PHP, Laravel and Ruby for the back end,
+* Mocha, Chai, and Jest for testing,
+* Bitbucket Pipelines for building, testing, and deploying web applications to production environments
+
+My work also involves...
+* Collaborating with teams to gather requirements and translate them into actionable development tasks.
+* Provide operational support, promptly addressing and resolving any bugs or issues that arise.
+* Actively contributing to Canvas, the open-source project our services are mostly based off.
+* Developing internal tools, including the Release Version Management system used in the office as well as the Object Storage Migration Tool and a Validator for the Migration Tool.
+* Developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
+
+### Mar 2021 - Mar 2022
+**Tech Recruiter/Head Hunter** @[Robert Walters](https://www.robertwalters.com/)' Tech & Transformation Team
+
+Robert Walters is a world-leading recruitment consulting firm.
+I, as a consultant of the Tech & Transformation Team, specialised in recruiting Technology professionals such as Software Engineers, C-levels, PMs, UI/UX designers, etc. I was in charge of:
+
+* Providing human resources market analysis;
+* Consulting on staffing/hiring decisions;
+* Liaison with the Client, collecting background information and hiring criteria from the Client;
+* Preparing hiring plans;
+* Searching for selection and introduction of qualified candidates for the Client;
+* Communicating with the candidates;
+* Arranging negotiation, interview, and execution of employment contracts and other matters between the Client and the candidates; and
+* follow up consulting service for recruited candidates.
+
+Promoted to a consultant within 6 months of joining.
+
+## Education
+### Mar 2024 - Present
+**Computer Science Major** @[Korea Open University](https://www.kou.ac.kr/)
+### Mar 2015 - Aug 2020
+**Bachelor of Arts in English Literature** @[Kyunhee University](https://www.khu.ac.kr/)
