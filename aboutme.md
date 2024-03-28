@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About me
-# subtitle: 
+subtitle: My name is Sujin Park
 ---
 
-My name is Sujin Park. 
-SI'm a software engineer with a focus on web development seeking a deeper understanding of how things work under the hood.
+I'm a software engineer with a focus on web development seeking a deeper understanding of how things work under the hood.
 I'm currently working on web solutions based on an open-source project.
-Feel free to reach out to me if you have any questions or just waSnt to chat!
+Feel free to reach out to me if you have any questions or just want to chat!
 
 ## Experience
 
@@ -16,11 +15,11 @@ Feel free to reach out to me if you have any questions or just waSnt to chat!
 
 Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) to universities and academic institutions.
 
-I, as a Full Stack Developer, is fully designing and implementing new features (front end, back end, testing, deployment...) on a client-by-client basis.
+I, as a Full Stack Developer, is fully designing and implementing new features (front-end, back-end, testing, deployment...) on a client-by-client basis.
 
 The technology stack involves mainly:
-* JavaScript, TypeScript, React and Redux for the front end,
-* PHP, Laravel and Ruby for the back end,
+* JavaScript, TypeScript, React and Redux for the front-end,
+* PHP, Laravel and Ruby for the back-end,
 * Mocha, Chai, and Jest for testing,
 * Bitbucket Pipelines for building, testing, and deploying web applications to production environments
 
@@ -36,7 +35,7 @@ My work also involves...
 
 Robert Walters is a world-leading recruitment consulting firm.
 
-I, as a consultant of the Tech & Transformation Team, specialised in recruiting Technology professionals such as Software Engineers, C-levels, PMs, UI/UX designers, etc. I was in charge of:
+I, as a recruitment consultant of the Tech & Transformation Team, specialised in recruiting Technology professionals such as Software Engineers, C-levels, PMs, UI/UX designers, etc. I was in charge of:
 
 * providing human resources market analysis;
 * consulting on staffing/hiring decisions;
@@ -47,10 +46,10 @@ I, as a consultant of the Tech & Transformation Team, specialised in recruiting 
 * arranging negotiation, interview, and execution of employment contracts and other matters between the client and the candidates; and
 * follow up consulting service for recruited candidates.
 
-Promoted to a consultant within 6 months of joining.
+Promoted to a consultant within 6 months of joining as an associate.
 
 ## Education
 ### Mar 2024 - Present
-**Computer Science Major** @[Korea National Open University](https://www.knou.ac.kr/)
+**Bachelor of Science in Computer Science** @[Korea National Open University](https://www.knou.ac.kr/)
 ### Mar 2015 - Aug 2020
 **Bachelor of Arts in English Literature** @[Kyunhee University](https://www.khu.ac.kr/)
