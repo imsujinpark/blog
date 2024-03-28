@@ -4,16 +4,18 @@ title: About me
 # subtitle: 
 ---
 
-My name is Sujin Park. I'm a software engineer with a focus on web development seeking a deeper understanding of how things work under the hood.
-Currently working on LMS (Learning Management System) Solutions based on an open-source project called [Canvas LMS](https://github.com/instructure/canvas-lms)
-Feel free to reach out to me if you have any questions or just want to chat!
+My name is Sujin Park. 
+SI'm a software engineer with a focus on web development seeking a deeper understanding of how things work under the hood.
+I'm currently working on web solutions based on an open-source project.
+Feel free to reach out to me if you have any questions or just waSnt to chat!
 
 ## Experience
 
 ### Jan 2023 - Present
-**Software Engineer** @[Xinics Inc.](https://www.xinics.com/)'s Tech Team
+**Software Engineer** @[Xinics Inc.](https://www.xinics.com/)'s Platform Technology Team
 
 Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) to universities and academic institutions.
+
 I, as a Full Stack Developer, is fully designing and implementing new features (front end, back end, testing, deployment...) on a client-by-client basis.
 
 The technology stack involves mainly:
@@ -23,25 +25,26 @@ The technology stack involves mainly:
 * Bitbucket Pipelines for building, testing, and deploying web applications to production environments
 
 My work also involves...
-* Collaborating with teams to gather requirements and translate them into actionable development tasks.
-* Provide operational support, promptly addressing and resolving any bugs or issues that arise.
-* Actively contributing to Canvas, the open-source project our services are mostly based off.
-* Developing internal tools, including the Release Version Management system used in the office as well as the Object Storage Migration Tool and a Validator for the Migration Tool.
+* Collaborating with teams to gather requirements and translate them into actionable development tasks;
+* Provide operational support, promptly addressing and resolving any bugs or issues that arise;
+* Actively contributing to Canvas, the open-source project our services are mostly based off;
+* Developing internal tools, including the Release Version Management system used in the office as well as the Object Storage Migration Tool and a Validator for the Migration Tool;
 * Developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
 
 ### Mar 2021 - Mar 2022
 **Tech Recruiter/Head Hunter** @[Robert Walters](https://www.robertwalters.com/)' Tech & Transformation Team
 
 Robert Walters is a world-leading recruitment consulting firm.
+
 I, as a consultant of the Tech & Transformation Team, specialised in recruiting Technology professionals such as Software Engineers, C-levels, PMs, UI/UX designers, etc. I was in charge of:
 
-* Providing human resources market analysis;
-* Consulting on staffing/hiring decisions;
-* Liaison with the Client, collecting background information and hiring criteria from the Client;
-* Preparing hiring plans;
-* Searching for selection and introduction of qualified candidates for the Client;
-* Communicating with the candidates;
-* Arranging negotiation, interview, and execution of employment contracts and other matters between the Client and the candidates; and
+* providing human resources market analysis;
+* consulting on staffing/hiring decisions;
+* liaison with the client, collecting background information and hiring criteria from the client;
+* preparing hiring plans;
+* searching for selection and introduction of qualified candidates for the client;
+* communicating with the candidates;
+* arranging negotiation, interview, and execution of employment contracts and other matters between the client and the candidates; and
 * follow up consulting service for recruited candidates.
 
 Promoted to a consultant within 6 months of joining.
