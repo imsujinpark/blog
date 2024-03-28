@@ -11,7 +11,7 @@ Feel free to reach out to me if you have any questions or just want to chat!
 ## Fun Facts
 - I am a tech recruiter turned software engineer.
 - I am a Korean raised in Prague and currently living in London.
-- Dance lessons are my go-to stress reliever.
+- Taking dance lessons are my go-to stress reliever.
 
 ## Experience
 
@@ -51,7 +51,7 @@ I, as a recruitment consultant of the Tech & Transformation Team, specialised in
 * arranging negotiation, interview, and execution of employment contracts and other matters between the client and the candidates; and
 * follow up consulting service for recruited candidates.
 
-Promoted to a consultant within 6 months of joining as an associate.
+I was promoted to a consultant within 6 months of joining as an associate with the highest performance amon
 
 ## Education
 ### Mar 2024 - Present
