@@ -51,6 +51,6 @@ Promoted to a consultant within 6 months of joining.
 
 ## Education
 ### Mar 2024 - Present
-**Computer Science Major** @[Korea Open University](https://www.kou.ac.kr/)
+**Computer Science Major** @[Korea National Open University](https://www.knou.ac.kr/)
 ### Mar 2015 - Aug 2020
 **Bachelor of Arts in English Literature** @[Kyunhee University](https://www.khu.ac.kr/)
