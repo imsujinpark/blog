@@ -12,10 +12,9 @@ author: imsujinpark
 # Hoisting
 
 ## What is Hoisting?
-- **Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution**.
-- This process is done by the JavaScript engine during the compilation phase.
-    - compilation phase: The JavaScript engine scans the code and sets up memory space for variables and functions.
-- This means that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local.
+**Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution**.
+This process is done by the JavaScript engine when the code is executed.
+This means that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local.
 
 
 ## Variable Hoisting Example
@@ -27,8 +26,8 @@ console.log(x); // 5
 It does not throw an error because the variable declaration is hoisted to the top of the scope.
 
 
-    ### Does it only work with `var`?
-    - No, it also works with `let` and `const`.
+### Does it only work with `var`?
+No, it also works with `let` and `const`.
 
 ## Function Hoisting Example
 ```javascript
@@ -85,7 +84,7 @@ const baz = () => {
 - It can make the code harder to read and understand if you have a lot of hoisted declarations.
 
 ## Conclusion
-- Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution.
-- It works with `var`, `let`, and `const` declarations.
-- Function declarations are hoisted, but function expressions are not.
-- Hoisting can be useful for using functions before they are declared, but it can also lead to confusion and bugs if not used properly.
+Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution.
+It works with `var`, `let`, and `const` declarations.
+Function declarations are hoisted, but function expressions are not.
+Hoisting can be useful for using functions before they are declared, but it can also lead to confusion and bugs if not used properly.
