@@ -36,7 +36,7 @@ My responsibilities include:
 * developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
 
 ### Mar 2021 - Mar 2022
-#### **Tech Recruiter/Head Hunter** @[Robert Walters](https://www.robertwalters.com/)' Tech & Transformation Team
+#### **Tech Recruiter/Headhunter** @[Robert Walters](https://www.robertwalters.com/)' Tech & Transformation Team
 
 Robert Walters is a world-leading recruitment consulting firm.
 
