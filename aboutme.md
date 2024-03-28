@@ -16,7 +16,7 @@ Feel free to reach out to me if you have any questions or just want to chat!
 ## Experience
 
 ### Jan 2023 - Present
-**Software Engineer** @[Xinics Inc.](https://www.xinics.com/)'s Platform Technology Team
+#### **Software Engineer** @[Xinics Inc.](https://www.xinics.com/)'s Platform Technology Team
 
 Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) to universities and academic institutions.
 
@@ -28,15 +28,15 @@ The technology stack involves mainly:
 * Mocha, Chai, and Jest for testing,
 * Bitbucket Pipelines for building, testing, and deploying web applications to production environments
 
-My work also involves...
-* Collaborating with teams to gather requirements and translate them into actionable development tasks;
-* Provide operational support, promptly addressing and resolving any bugs or issues that arise;
-* Actively contributing to Canvas, the open-source project our services are mostly based off;
-* Developing internal tools, including the Release Version Management system used in the office as well as the Object Storage Migration Tool and a Validator for the Migration Tool;
-* Developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
+My responsibilities include:
+* collaborating with teams to gather requirements and translate them into actionable development tasks;
+* provide operational support, promptly addressing and resolving any bugs or issues that arise;
+* actively contributing to Canvas LMS, the open-source project our services are mostly based on;
+* developing internal tools, including the release version management system used in the office as well as the object storage migration tool and a validator for the migration tool; and
+* developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
 
 ### Mar 2021 - Mar 2022
-**Tech Recruiter/Head Hunter** @[Robert Walters](https://www.robertwalters.com/)' Tech & Transformation Team
+#### **Tech Recruiter/Head Hunter** @[Robert Walters](https://www.robertwalters.com/)' Tech & Transformation Team
 
 Robert Walters is a world-leading recruitment consulting firm.
 
@@ -58,3 +58,6 @@ Promoted to a consultant within 6 months of joining as an associate.
 **Bachelor of Science in Computer Science** @[Korea National Open University](https://www.knou.ac.kr/)
 ### Mar 2015 - Aug 2020
 **Bachelor of Arts in English Literature** @[Kyunhee University](https://www.khu.ac.kr/)
+
+## Contact
+- Email: [imsujinpark@gmail.com](mailto:imsujinpark@gmail.com)
