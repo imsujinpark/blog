@@ -7,18 +7,18 @@ subtitle: My name is Sujin Park
 I'm a software engineer with a focus on web development seeking a deeper understanding of how things work under the hood.
 I'm currently working on web solutions based on an open-source project.
 Feel free to reach out to me if you have any questions or just want to chat!
-
+<!-- 
 ## Fun Facts
 - I am a tech recruiter turned software engineer.
 - I am a Korean raised in Prague and currently living in London.
-- Taking dance lessons are my go-to stress reliever.
+- Taking dance lessons are my go-to stress reliever. -->
 
 ## Experience
 
 ### Jan 2023 - Present
 #### **Software Engineer** @[Xinics Inc.](https://www.xinics.com/)'s Platform Technology Team
 
-Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) to universities and academic institutions.
+Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) and its own CMS (Content Management System) solutions to universities and academic institutions.
 
 I, as a Full Stack Developer, is fully designing and implementing new features (front-end, back-end, testing, deployment...) on a client-by-client basis.
 
@@ -31,8 +31,8 @@ The technology stack involves mainly:
 My responsibilities include:
 * collaborating with teams to gather requirements and translate them into actionable development tasks;
 * provide operational support, promptly addressing and resolving any bugs or issues that arise;
-* actively contributing to Canvas LMS, the open-source project our services are mostly based on;
-* developing internal tools, including the release version management system used in the office as well as the object storage migration tool and a validator for the migration tool; and
+* developing internal tools, including the release version management system used in the office as well as the object storage migration tool and a validator for the migration tool;
+* contributing to Canvas LMS, the open-source project our services are mostly based on; and
 * developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
 
 ### Mar 2021 - Mar 2022
@@ -54,9 +54,9 @@ I, as a recruitment consultant of the Tech & Transformation Team, specialised in
 I was promoted to a consultant within 6 months of joining as an associate with the highest performance amon
 
 ## Education
-### Mar 2024 - Present
+### Feb 2026
 **Bachelor of Science in Computer Science** @[Korea National Open University](https://www.knou.ac.kr/)
-### Mar 2015 - Aug 2020
+### Aug 2020
 **Bachelor of Arts in English Literature** @[Kyunhee University](https://www.khu.ac.kr/)
 
 ## Contact
