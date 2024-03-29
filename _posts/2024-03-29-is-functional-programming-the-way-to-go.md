@@ -3,7 +3,7 @@ layout: post
 title: Is Functional Programming the Way to Go?
 subtitle: Exploring Functional Programming from a Junior Developer's Perspective
 cover-img: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-thumbnail-img: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+# thumbnail-img: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 share-img: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 tags: [functional programming, programming, lambda calculus, javascript]
 author: imsujinpark
@@ -192,9 +192,9 @@ Here are some scenarios where functional programming might not be the ideal choi
     - It might be more practical to maintain the existing codebase using the current paradigm rather than refactoring it entirely
 
 ## Conclusion
-**Function programming** offers simplicity and elegance in code design, but it's not always the best approach.
+Function programming offers simplicity and elegance in code design, but it's not always the best approach.
 While its focus on statelessness and composability can lead to cleaner, more maintainable code, there are scenarios where mutable state is unavoidable or even beneficial.
-Understanding the underlying principles of functional programming allows us to find the right balance between different paradigms.
+**Understanding the underlying principles of functional programming allows us to find the right balance between different paradigms.**
 
 And here is a video that helped me understand functional programming better that made me write this blog post: : [Dear Functional Bros](https://www.youtube.com/watch?v=nuML9SmdbJ4)
 
