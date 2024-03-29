@@ -10,10 +10,10 @@ author: imsujinpark
 ---
 
 ## Introduction
-As someone who first started programming with JavaScript, I quickly became accustomed to its methods like sort, filter, map, and reduce, relying on them before truly understanding their underlying principles. Now that I can write logic that achieves the same outcomes without relying on these built-in functions, I find myself pondering the question of which coding approach is truly the most effective. And that's where I began to delve deeper into functional programming and other paradigms.
+As someone who first started programming with **JavaScript**, I quickly became accustomed to its methods like `sort`, `filter`, and `map`. I relied on them before truly understanding their underlying principles. Now that I can write logic that achieves the same outcomes without relying on these built-in functions, I find myself pondering the question of which coding approach is truly the most effective. And that's where I began to delve deeper into **functional programming** and other paradigms.
 
 ### Which one looks better?
-Consider a scenario where you're tasked with filtering a list of groceries, isolating fruits, and then sorting them by price
+Consider a scenario where you're tasked with filtering a list of groceries, isolating fruits, and then sorting them by price.
 
 ```javascript
 const groceryList = [
@@ -58,6 +58,7 @@ const filterAndSortFruitsByPrice = (groceryList) => {
 Which one do you think is better?
 Well, "better" way of writing code is subjective. But, I think many would agree that the second option is cleaner and easier to read.
 It doesn't modify the original array, which leads to fewer side effects and easier debugging.
+This is an example of **functional programming**, a coding paradigm that focuses on using functions to process data and avoid changing state or mutable variables.
 
 ## Understanding Functional Programming
 No State, No Changes in Memory?
@@ -90,17 +91,17 @@ const filterAndSortFruitsByPrice = (groceryList) => {
 `item => item.category === 'fruit'` and `(a, b) => b.price - a.price` are lambda functions. They are not named and are only used where they are defined.
 
 ### Making Data Pipelines
-Pipeline is a series of processing elements, where output of one element is input of the next.
+**Pipeline** is a series of processing elements, where output of one element is input of the next.
 
-Functional programming encourages the use of data pipelines, where data flows through a series of functions, each transforming it in a specific way. This approach promotes composability, allowing developers to combine functions to create complex logic from simple building blocks.
+Functional programming encourages the use of **data pipelines**, where data flows through a series of functions, each transforming it in a specific way. This approach promotes composability, allowing developers to combine functions to create complex logic from simple building blocks.
 
-However, while data pipelines in functional programming offer flexibility and scalability, it is important to be mindful of its potential bottlenecks and inefficiencies such as excessive function nesting or inefficient data processing.
-Thoughtful planning of how functions are combined and how data flows through the pipeline along with regular performance testing can help mitigate these issues.
+However, while data pipelines in functional programming offer **flexibility** and **scalability**, it is important to be mindful of its potential bottlenecks and inefficiencies such as excessive function nesting or inefficient data processing.
+Thoughtful planning of **how functions are combined** and **how data flows** through the pipeline along with **regular performance testing** can help mitigate these issues.
 
 ## What Other Paradigms Are There?
 > **Paradigm ?**
-> - A way of thinking about something
-> - A set of ideas or opinions about how something should be done, made, or thought about
+> - a way of thinking about something
+> - a set of ideas or opinions about how something should be done, made, or thought about
 
 Functional programming is just one of many paradigms in software development.
 Other popular paradigms include:
@@ -167,6 +168,19 @@ Here are some tips to help you apply functional programming principles in your c
     - Leverage anonymous functions for concise, reusable logic
     - Apply lambda functions to create custom transformations and filters
     - Promote simplicity and universality in code design
+
+## When to Avoid Functional Programming
+Many words have been said about the benefits of functional programming, but it's not always the best approach for every situation.
+Here are some scenarios where functional programming might not be the ideal choice:
+1. **Performance-critical applications**
+    - Functional programming can introduce overhead due to its emphasis on immutability and statelessness
+    - Imperative programming might be more suitable for performance-critical tasks where fine-grained control is essential
+2. **Complex state management**
+    - Functional programming might not be the best choice for applications with complex state management requirements
+    - Object-oriented programming or procedural programming might offer better solutions for managing state and interactions between objects
+3. **Legacy codebases**
+    - Transitioning a large legacy codebase to a functional programming paradigm can be challenging and time-consuming
+    - It might be more practical to maintain the existing codebase using the current paradigm rather than refactoring it entirely
 
 ## Conclusion
 **Function programming** offers simplicity and elegance in code design, but it's not always the best approach.
