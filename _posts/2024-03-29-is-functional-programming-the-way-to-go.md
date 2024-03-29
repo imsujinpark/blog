@@ -71,6 +71,11 @@ This architecture suggests that computers process data by altering states in mem
 However, functional programming challenges this notion by advocating for **statelessness**.
 
 ### But Does It Really Have No State?
+While it would be ideal for there to be no state and no side effects, this isn't the reality. 
+
+**Computers fundamentally have state**. They store data in memory, and programs manipulate this data to produce results.
+Input isn't deterministic, meaning the same input can yield different outputs based on the system's state. And any output necessarily induces side effects by altering the system's state.
+
 Functional programming doesn't mean that there's no state at all.
 Rather, it emphasises minimising state and managing it in a controlled manner.
 By reducing the reliance on mutable state, functional programming simplifies code, making it easier to reason about and test.
