@@ -5,7 +5,7 @@ subtitle: Exploring Functional Programming from a Junior Developer's Perspective
 cover-img: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 thumbnail-img:
 share-img: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-tags: [functional programming, programming, lambda calculus, javascript]
+tags: [functional programming, programming paradigms, data pipelines]
 author: imsujinpark
 ---
 
@@ -84,7 +84,7 @@ By reducing the reliance on mutable state, functional programming simplifies cod
 Functional programming traces its roots back to **lambda calculus**, a mathematical system developed by Alonzo Church in the 1930s.
 It defines computations using anonymous functions, known as lambda functions. These functions treat computation as the evaluation of mathematical functions, emphasising simplicity and universality.
 
-Let's look at the example from earlier, rewritten in a functional style:
+Let's look at the example from earlier, written in a functional style:
 ```javascript
 const filterAndSortFruitsByPrice = (groceryList) => {
     return groceryList
