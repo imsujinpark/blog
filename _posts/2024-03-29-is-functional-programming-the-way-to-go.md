@@ -95,6 +95,15 @@ const filterAndSortFruitsByPrice = (groceryList) => {
 
 Functional programming encourages the use of **data pipelines**, where data flows through a series of functions, each transforming it in a specific way. This approach promotes composability, allowing developers to combine functions to create complex logic from simple building blocks.
 
+One of the technique for building data pipelines is **currying**. Currying is the process of converting a function that takes multiple arguments into a sequence of functions that each take a single argument. This technique allows for partial application of functions, enabling greater flexibility and reusability.
+
+```javascript
+const add = (a) => (b) => a + b; // Curried function which takes one argument `a` and returns a function that takes another argument `b`
+
+const addFive = add(5); // addFive is a function that adds 5 to its argument
+console.log(addFive(3)); // Output: 8
+```
+
 However, while data pipelines in functional programming offer **flexibility** and **scalability**, it is important to be mindful of its potential bottlenecks and inefficiencies such as excessive function nesting or inefficient data processing.
 Thoughtful planning of **how functions are combined** and **how data flows** through the pipeline along with **regular performance testing** can help mitigate these issues.
 
