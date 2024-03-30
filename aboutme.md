@@ -7,11 +7,11 @@ subtitle: My name is Sujin Park
 I'm a software engineer with a focus on web development seeking a deeper understanding of how things work under the hood.
 I'm currently working on web solutions based on an open-source project.
 Feel free to reach out to me if you have any questions or just want to chat!
-<!-- 
+
 ## Fun Facts
 - I am a tech recruiter turned software engineer.
 - I am a Korean raised in Prague and currently living in London.
-- Taking dance lessons are my go-to stress reliever. -->
+- Taking dance lessons are my go-to stress reliever.
 
 ## Experience
 
