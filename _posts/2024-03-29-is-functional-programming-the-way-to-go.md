@@ -58,6 +58,7 @@ const filterAndSortFruitsByPrice = (groceryList) => {
 Which one do you think is better?
 Well, "better" way of writing code is subjective. But, I think many would agree that the second option is cleaner and easier to read.
 It doesn't modify the original array, which leads to fewer side effects and easier debugging.
+
 This is an example of **functional programming**, a coding paradigm that focuses on using functions to process data and avoid changing state or mutable variables.
 
 ## Understanding Functional Programming
@@ -184,7 +185,7 @@ Here are some tips to help you apply functional programming principles in your c
     - Promote simplicity and universality in code design
 
 ## When to Avoid Functional Programming
-Many words have been said about the benefits of functional programming, but it's not always the best approach for every situation.
+Functional programming is a powerful paradigm that offers many benefits, but it's not always the best approach for every situation.
 Here are some scenarios where functional programming might not be the ideal choice:
 1. **Performance-critical applications**
     - Functional programming can introduce overhead due to its emphasis on immutability and statelessness
