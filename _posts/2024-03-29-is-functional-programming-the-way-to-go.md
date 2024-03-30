@@ -56,7 +56,7 @@ const filterAndSortFruitsByPrice = (groceryList) => {
 };
 ```
 Which one do you think is better?
-Well, "better" way of writing code is subjective. But, I think many would agree that the second option is cleaner and easier to read.
+Well, "better" way of writing code is subjective. But, I would've said the second option is cleaner and easier to read.
 It doesn't modify the original array, which leads to fewer side effects and easier debugging.
 
 This is an example of **functional programming**, a coding paradigm that focuses on using functions to process data and avoid changing state or mutable variables.
@@ -67,7 +67,7 @@ No State, No Changes in Memory?
 **Functional programming, at its core, aims to eliminate state and side effects.**
 In simpler terms, it promotes the idea that functions should produce the same output for a given input, without altering state or relying on mutable variables.
 
-This paradigm shift aligns with the **Neumann architecture**, a fundamental concept in computer science. 
+This paradigm shift aligns with the **von Neumann architecture**, a fundamental concept in computer science. 
 This architecture suggests that computers process data by altering states in memory, which traditional imperative programming heavily relies upon. 
 However, functional programming challenges this notion by advocating for **statelessness**.
 
@@ -110,7 +110,7 @@ const addFive = add(5); // addFive is a function that adds 5 to its argument
 console.log(addFive(3)); // Output: 8
 ```
 
-However, while data pipelines in functional programming offer **flexibility** and **scalability**, it is important to be mindful of its potential bottlenecks and inefficiencies such as excessive function nesting or inefficient data processing.
+However, while data pipelines in functional programming offer **flexibility** and **scalability**, it is important to be mindful of its potential bottlenecks and inefficiencies such as excessive function nesting. And since there is no state, there will be a lot of data copying and processing, which can lead to performance issues.
 Thoughtful planning of **how functions are combined** and **how data flows** through the pipeline along with **regular performance testing** can help mitigate these issues.
 
 ## What Other Paradigms Are There?
@@ -175,14 +175,15 @@ Here are some tips to help you apply functional programming principles in your c
     - Minimise reliance on mutable state
     - Use immutable data structures where possible
     - Avoid side effects that alter state outside the function's scope
+        - **In simpler terms, use constants and pure functions when possible**
 2. Make data pipelines
     - Create composable functions that transform data
     - Chain functions together to create complex logic
     - Embrace the concept of pure functions that produce the same output for a given input
-3. Use lambdas for lightweight generic code
+3. Use lambdas for lightweight generic code (**but beware of runtime costs**)
     - Leverage anonymous functions for concise, reusable logic
     - Apply lambda functions to create custom transformations and filters
-    - Promote simplicity and universality in code design
+    - Promote **simplicity** and universality in code design
 
 ## When to Avoid Functional Programming
 Functional programming is a powerful paradigm that offers many benefits, but it's not always the best approach for every situation.
@@ -198,10 +199,11 @@ Here are some scenarios where functional programming might not be the ideal choi
     - It might be more practical to maintain the existing codebase using the current paradigm rather than refactoring it entirely
 
 ## Conclusion
-Function programming offers simplicity and elegance in code design, but it's not always the best approach.
+Functional programming offers simplicity and elegance in code design, but it's not always the best approach.
 While its focus on statelessness and composability can lead to cleaner, more maintainable code, there are scenarios where mutable state is unavoidable or even beneficial.
-**Understanding the underlying principles of functional programming allows us to find the right balance between different paradigms.**
+Whether it is a way to go or not, you will find it everywhere.
+Understanding the underlying principles of functional programming allows us to find the right balance between different paradigms.
 
-And here is a video that helped me understand functional programming better that made me write this blog post: : [Dear Functional Bros](https://www.youtube.com/watch?v=nuML9SmdbJ4)
+And here is a video that helped me understand functional programming better that made me write this blog post: [Dear Functional Bros](https://www.youtube.com/watch?v=nuML9SmdbJ4)
 
 Happy coding!
