@@ -17,9 +17,9 @@ Feel free to reach out to me if you have any questions or just want to chat!
 
 ### Jan 2023 - *Present*
 #### Software Engineer
-Platform Technology Team @[Xinics Inc.](https://www.xinics.com/)
+###### Platform Technology Team @[*Xinics Inc.*](https://www.xinics.com/)
 
-Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) and its own CMS (Content Management System) solutions to universities and academic institutions.
+*Xinics* provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) and its own CMS (Content Management System) solutions to universities and academic institutions.
 
 I, as a Full Stack Developer, is fully designing and implementing new features (front-end, back-end, testing, deployment...) on a client-by-client basis.
 
@@ -38,9 +38,9 @@ My responsibilities include:
 
 ### Mar 2021 - Mar 2022
 #### Tech Recruiter/Headhunter
-Tech & Transformation Team @[Robert Walters](https://www.robertwalters.com/)
+###### Tech & Transformation Team @[*Robert Walters*](https://www.robertwalters.com/)
 
-Robert Walters is a world-leading recruitment consulting firm.
+*Robert Walters* is a world-leading recruitment consulting firm.
 
 I, as a recruitment consultant of the Tech & Transformation Team, specialised in recruiting Technology professionals such as Software Engineers, C-levels, PMs, UI/UX designers, etc. I was in charge of:
 
