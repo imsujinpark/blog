@@ -56,7 +56,7 @@ I, as a recruitment consultant of the Tech & Transformation Team, specialised in
 I was promoted to a consultant within 6 months of joining as an associate with the highest performance among the new recruits.
 
 ## Education
-### Feb 2026
+<h3>Feb 2026 <span style="font-weight: normal;">(Expected)</span></h3>
 **Bachelor of Science in Computer Science**
 <br>[Korea National Open University](https://engknou.knou.ac.kr/)
 
