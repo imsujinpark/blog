@@ -62,7 +62,7 @@ I was promoted to a consultant within 6 months of joining as an associate with t
 
 ### Aug 2020
 **Bachelor of Arts in English Literature**
-<br>[Kyunhee University, Seoul](https://www.khu.ac.kr/eng/user/main/view.do)
+<br>[Kyunghee University, Seoul](https://www.khu.ac.kr/eng/user/main/view.do)
 
 ### June 2014
 **IB (International Baccalaureate) Diploma**
