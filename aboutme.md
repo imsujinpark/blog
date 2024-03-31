@@ -53,7 +53,7 @@ I, as a recruitment consultant of the Tech & Transformation Team, specialised in
 * arranging negotiation, interview, and execution of employment contracts and other matters between the client and the candidates; and
 * follow up consulting service for recruited candidates.
 
-I was promoted to a consultant within 6 months of joining as an associate with the highest performance amon
+I was promoted to a consultant within 6 months of joining as an associate with the highest performance among the new recruits.
 
 ## Education
 ### Feb 2026
