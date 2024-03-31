@@ -16,7 +16,8 @@ Feel free to reach out to me if you have any questions or just want to chat!
 ## Experience
 
 ### Jan 2023 - Present
-#### **Software Engineer** @[Xinics Inc.](https://www.xinics.com/)'s Platform Technology Team
+#### **Software Engineer**
+##### Platform Technology Team @[Xinics Inc.](https://www.xinics.com/)
 
 Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) and its own CMS (Content Management System) solutions to universities and academic institutions.
 
@@ -36,7 +37,8 @@ My responsibilities include:
 * developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
 
 ### Mar 2021 - Mar 2022
-#### **Tech Recruiter/Headhunter** @[Robert Walters](https://www.robertwalters.com/)' Tech & Transformation Team
+#### **Tech Recruiter/Headhunter** 
+##### Tech & Transformation Team @[Robert Walters](https://www.robertwalters.com/)' 
 
 Robert Walters is a world-leading recruitment consulting firm.
 
@@ -55,11 +57,11 @@ I was promoted to a consultant within 6 months of joining as an associate with t
 
 ## Education
 ### Feb 2026
-**Bachelor of Science in Computer Science** @[Korea National Open University](https://www.knou.ac.kr/)
+**Bachelor of Science in Computer Science** @[Korea National Open University](https://engknou.knou.ac.kr/)
 ### Aug 2020
-**Bachelor of Arts in English Literature** @[Kyunhee University, KR](https://www.khu.ac.kr/)
+**Bachelor of Arts in English Literature** @[Kyunhee University, KR](https://www.khu.ac.kr/eng/user/main/view.do)
 ### June 2014
-**IB (International Baccalaureate) Diploma** @[Riverside School, CZ](https://www.riversideschool.cz/)
+**IB (International Baccalaureate) Diploma** @[Riverside International School, CZ](https://www.riversideschool.cz/)
 
 ## Contact
 - Email: [imsujinpark@gmail.com](mailto:imsujinpark@gmail.com)
