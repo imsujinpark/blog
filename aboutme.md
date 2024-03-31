@@ -16,8 +16,8 @@ Feel free to reach out to me if you have any questions or just want to chat!
 ## Experience
 
 ### Jan 2023 - *Present*
-#### **Software Engineer**
-##### Platform Technology Team @[Xinics Inc.](https://www.xinics.com/)
+#### Software Engineer
+Platform Technology Team @[Xinics Inc.](https://www.xinics.com/)
 
 Xinics provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) and its own CMS (Content Management System) solutions to universities and academic institutions.
 
@@ -37,8 +37,8 @@ My responsibilities include:
 * developing custom solutions to integrate Student Information Systems (SIS) across various educational applications.
 
 ### Mar 2021 - Mar 2022
-#### **Tech Recruiter/Headhunter** 
-##### Tech & Transformation Team @[Robert Walters](https://www.robertwalters.com/)
+#### Tech Recruiter/Headhunter
+Tech & Transformation Team @[Robert Walters](https://www.robertwalters.com/)
 
 Robert Walters is a world-leading recruitment consulting firm.
 
