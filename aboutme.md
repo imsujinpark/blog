@@ -15,7 +15,7 @@ Feel free to reach out to me if you have any questions or just want to chat!
 
 ## Experience
 
-### Jan 2023 - Present
+### Jan 2023 - *Present*
 #### **Software Engineer**
 ##### Platform Technology Team @[Xinics Inc.](https://www.xinics.com/)
 
