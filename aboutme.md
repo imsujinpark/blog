@@ -38,7 +38,7 @@ My responsibilities include:
 
 ### Mar 2021 - Mar 2022
 #### **Tech Recruiter/Headhunter** 
-##### Tech & Transformation Team @[Robert Walters](https://www.robertwalters.com/)' 
+##### Tech & Transformation Team @[Robert Walters](https://www.robertwalters.com/)
 
 Robert Walters is a world-leading recruitment consulting firm.
 
