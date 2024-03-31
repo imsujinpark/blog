@@ -29,3 +29,9 @@ Feel free to participate in the project by forking the repository and submitting
 <img src="https://user-images.githubusercontent.com/92300124/195007555-9fd3d514-ab2a-4696-b7d0-00d8571f1a70.gif" alt="My Fridge Image" width="50%">
 
 **Source Code** [GitHub Repository](https://github.com/codestates-seb/seb39_main_052)
+
+**Developers**
+- Sujin Park ([GitHub](https://github.com/imsujinpark))
+- hana1203 ([GitHub](https://github.com/hana1203))
+- SJ0000 ([GitHub](https://github.com/SJ0000))
+- yongjuvv ([GitHub](https://github.com/yongjuvv))
