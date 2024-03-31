@@ -11,7 +11,7 @@ Feel free to reach out to me if you have any questions or just want to chat!
 ## Fun Facts
 - I am a tech recruiter turned software engineer.
 - I am a Korean raised in Prague.
-- Taking dance lessons are my go-to stress reliever.
+- Dancing is my go-to stress reliever.
 
 ## Experience
 
