@@ -58,6 +58,8 @@ I was promoted to a consultant within 6 months of joining as an associate with t
 **Bachelor of Science in Computer Science** @[Korea National Open University](https://www.knou.ac.kr/)
 ### Aug 2020
 **Bachelor of Arts in English Literature** @[Kyunhee University](https://www.khu.ac.kr/)
+### June 2014
+**International Baccalaureate Diploma** @[Riverside School](https://www.riversideschool.cz/)
 
 ## Contact
 - Email: [imsujinpark@gmail.com](mailto:imsujinpark@gmail.com)
