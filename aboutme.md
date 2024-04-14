@@ -11,7 +11,7 @@ Feel free to reach out to me if you have any questions or just want to chat!
 ## Fun Facts
 - I am a tech recruiter turned software engineer.
 - I am a Korean raised in Prague.
-- Dancing is my go-to stress reliever.
+- I started off as a self taught developer and now I am pursuing a degree in Computer Science.
 
 ## Experience
 
