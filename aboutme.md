@@ -21,7 +21,7 @@ Feel free to reach out to me if you have any questions or just want to chat!
 
 *Xinics* provides LMS (Learning Management System) solutions based on Canvas LMS (an open-source project) and its own CMS (Content Management System) solutions to universities and academic institutions.
 
-I, as a Full Stack Developer, is fully designing and implementing new features (front-end, back-end, testing, deployment...) on a client-by-client basis.
+I, as a Full Stack Developer, am fully designing and implementing new features (front-end, back-end, testing, deployment...) on a client-by-client basis.
 
 The technology stack involves mainly:
 * JavaScript, TypeScript, React and Redux for the front-end,
